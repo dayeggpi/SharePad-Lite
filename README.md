@@ -20,6 +20,7 @@ A minimalist sharing tool that lives entirely in your browser and stores everyth
 - Markdown support
 - Export to txt file
 - Have multiple notes and manage the list more easily
+- PWA support (with offline mode)
     
 
 # How to use
