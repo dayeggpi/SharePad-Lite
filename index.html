@@ -1110,6 +1110,13 @@ async function init() {
   renderNotesList();
   setupEventListeners();
   updateCharCount();
+
+
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('sw.js');
+  }
+
+  
 }
 
 // ============================================
