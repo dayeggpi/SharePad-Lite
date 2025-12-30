@@ -34,7 +34,7 @@ A minimalist sharing tool that lives entirely in your browser and stores everyth
 - Your data lives in localStorage AND the URL. Double the fun!
 - Add a `style` attribute to the `<article>` tag via DevTools (F12), it will also be shared !
 ```
-    background: url(//raw.githubusercontent.com/dayeggpi/SharePad/main/pixel.png);
+    background: url(//raw.githubusercontent.com/dayeggpi/SharePad-Lite/main/pixel.png);
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     font-size: 26px;
     color: red;
