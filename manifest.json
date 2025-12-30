@@ -1,16 +1,17 @@
 {
   "name": "SharePad Lite",
   "short_name": "SharePad Lite",
-  "start_url": "/sharepad-lite/",
-  "scope": "/sharepad-lite/",
+  "description": "Share text via URL with data encoded in the link",
+  "start_url": "./",
   "display": "standalone",
-  "background_color": "#fafafa",
-  "theme_color": "#fafafa",
+  "background_color": "#fefefe",
+  "theme_color": "#2563eb",
   "icons": [
     {
       "src": "favicon.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"	  
     }
   ]
 }
