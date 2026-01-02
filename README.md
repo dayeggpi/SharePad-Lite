@@ -1,5 +1,5 @@
 # SharePad-Lite
-[SharePad Lite live (demo)](https://raw.githack.com/dayeggpi/SharePad-Lite/main/index.html)
+[SharePad Lite live (demo)](https://dayeggpi.github.io/SharePad-Lite/)
 
 A minimalist sharing tool that lives entirely in your browser and stores everything in the URL hash.<br/>
 
